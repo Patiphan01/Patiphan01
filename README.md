@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm prem 👋</h1>
 
-<!--
-**Patiphan01/Patiphan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.instagram.com/dontlook_tag_inmango">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:chawadol.su@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/tuntagteam">
+    <img src="https://img.shields.io/github/followers/tuntagteam?label=Follow&style=social" alt="GitHub Follow"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="200" alt="Hello GIF">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 😎 About Me
+- 🔭 I’m currently working on a **super cool project**.
+- 🌱 Learning **Flutter**.
+- 💬 Ask me about **HTML**, **PHP**, or any web development tool.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: i love pussy cat !!!!!
+
+---
+
+### 🚀 Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,php,html,css,js,bootstrap,tailwind,mysql,flutter" alt="Skills" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🏆 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 How to Reach Me
+
+<p align="center">
+  <a href="mailto:chawadol.su@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat&color=blue" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif" width="200" alt="Footer GIF">
+</p>
